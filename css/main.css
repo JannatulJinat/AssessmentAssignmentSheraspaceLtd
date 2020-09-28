@@ -1,0 +1,30 @@
+<style>
+
+body{
+	  font-family: Calibri, sans-serif.;
+}
+
+.bar{
+	width: 40px;
+	height: 5px;
+	background-color: #333;
+	margin: 6px;
+}
+
+a, a:hover, a:focus, a:active {
+	text-decoration: none;
+	color: #616161;
+}
+
+@media screen and (max-width: 600px) {
+  
+.list-group {
+ text-align: center;
+}
+}
+a.list-group-item:hover{
+background: #212121;
+color: white;
+}
+
+</style>s
